@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/colin/Desktop/bit-academy/cicd/HUGO-my-Hero-19e5e6480022-665558a7491b/quickstart",
+	"sourceRoot": "C:/Users/colin/Desktop/bit-academy/cicd/hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
